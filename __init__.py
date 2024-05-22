@@ -1,0 +1,1 @@
+from .color_palette_node import ColorPaletteInvocation
